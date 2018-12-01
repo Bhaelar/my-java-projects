@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=biro
+comment1.params=brand
+comment1.target=void\ setBrand(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getBrand()
+comment3.params=inkColor
+comment3.target=void\ setInkColor(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getInkColor()
+comment5.params=
+comment5.target=void\ write()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

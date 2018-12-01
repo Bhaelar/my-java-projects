@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Washer
+comment1.params=timer
+comment1.target=void\ setTimer(int)
+comment2.params=
+comment2.target=int\ getTimer()
+comment3.params=clothPieces
+comment3.target=void\ setClothPieces(int)
+comment4.params=
+comment4.target=int\ getClothPieces()
+comment5.params=
+comment5.target=void\ washing()
+numComments=6
